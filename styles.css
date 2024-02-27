@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.head {
+    color: #ff7a71;
+    font-weight: bold;
+}
+
+.body {
+    font-weight: bold;
+}
+
+.section1 a {
+    color: #8e91ff;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: max-content;
+    padding: 1rem;
+    outline: 1px solid #ffffff;
+    background-color: #000000;
+}
